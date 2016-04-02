@@ -1,0 +1,1 @@
+Practice with prompt() and console.log()
