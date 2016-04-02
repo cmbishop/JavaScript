@@ -1,0 +1,1 @@
+A simple age calculator; practice with prompt() and numbers.
