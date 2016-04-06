@@ -1,0 +1,1 @@
+Basic app; no DOM manipulation (viewed in console).
